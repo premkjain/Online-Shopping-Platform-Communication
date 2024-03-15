@@ -11,7 +11,7 @@ Before starting, you should familiarize yourself with the following technologies
 
 - **Google Cloud**: Understanding how to create and manage Virtual Machines (VMs) and updating Firewall Rules.
 - **Protocol Buffers**: Data interchange format that can be used across multiple programming languages.
-- **gRPC**: Google's open-source Remote Procedure Call ([gRPC](grpc.io)) framework that uses Protocol Buffers (grpc.io).
+- **gRPC**: Google's open-source Remote Procedure Call ([gRPC](https://grpc.io)) framework that uses Protocol Buffers (grpc.io).
 
 It is recommended to implement the examples provided in the gRPC tutorial.
 
